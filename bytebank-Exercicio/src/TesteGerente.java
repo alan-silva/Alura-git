@@ -13,6 +13,8 @@ public class TesteGerente {
 		
 		System.out.println(g1.getSalario());
 		System.out.println(g1.getBonificacao());
+		System.out.println("Hello Git");
+		
 		
 		
 		
